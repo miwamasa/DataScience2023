@@ -38,7 +38,7 @@
 |---|---|---|---|---|
 |Lecture1|4/5(水) |はじめに||
 |||Colaboratryのテスト| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture1.ipynb)|ok|
-|Lecture2|4/8(土) |Python入門、統計の復習|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture1_pythonbasics.ipynb)|ok|
+|Lecture2|4/8(土) |Python入門、統計の復習|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture2.ipynb)|ok|
 |Lecture3|4/12(水) |Colabotryを使ったプロジェクト、markdown等||
 |Lecture4|4/15(土)|データの取得と操作| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture4.ipynb)|ok|
 |||pandasの利用| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture4_pandas.ipynb)|ok|
