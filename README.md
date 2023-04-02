@@ -1,5 +1,7 @@
 # DataScience2023
 
+<base target="_blank">
+
 <div dir='rtl'>
 産業技術大学院大学</br>
 担当: 岩政</br>
