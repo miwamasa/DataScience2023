@@ -1,6 +1,5 @@
 # DataScience2023
 
-<base target="_blank">
 
 <div dir='rtl'>
 産業技術大学院大学</br>
@@ -42,31 +41,31 @@
 |||Colaboratryのテスト| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture1.ipynb)|ok|
 |||ColabによるAlpaca-LoRA| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture1_alpaca_lora.ipynb)|ok|
 |Lecture2|4/8(土) |Python入門、統計の復習|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture2.ipynb)|ok|
-|Lecture3|4/12(水) |Colabotryを使ったプロジェクト、markdown等||
-|Lecture4|4/15(土)|データの取得と操作| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture4.ipynb)|ok|
-|||pandasの利用| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture4_pandas.ipynb)|ok|
-|||実習| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture4_practice.ipynb)|ok|
-|Lecture5|4/19(水)|データの可視化| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture5_matplotlib.ipynb) |ok|
-|||実習(1.棒グラフ)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture5_extra_1.ipynb) |ok|
-|||Extra(アンケート結果)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/aiit_query_process.ipynb) |ok|
-|Lecture6|4/22(土)|統計分布の基礎 |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture6.ipynb)|ok|
-|Lecture7|4/26(水)|回帰分析1|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture7.ipynb)|ok|
-|||事例(Game)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture7_games.ipynb)|ok|
-|Lecture8|5/6(土)|回帰分析2|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture8.ipynb)|in_progress|
-|||重回帰分析（変数選択）|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture8_AIC.ipynb)|in_progress|
-|||重回帰分析（交絡因子）|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture8_multiple_regression.ipynb)|ok|
-|||重回帰分析（ダミー変数）|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture6_multi_reg_category.ipynb)|ok|
-|Lecture9|5/10(水)|パターン認識1|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture9.ipynb)|ok|
-|||SVMの例|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture9_SVM.ipynb)|ok|
-|||SVMを最適化で解く|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture9_svm_optimize.ipynb)|ok|
+|Lecture3|4/12(水) |Colabotryを使ったプロジェクト例、ビジネスにけるデータ分析||
+|Lecture4|4/15(土)|データの取得と操作|<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture4.ipynb)-->|ok|
+|||pandasの利用|<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture4_pandas.ipynb)-->|ok|
+|||実習| <!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture4_practice.ipynb)-->|ok|
+|Lecture5|4/19(水)|データの可視化| <!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture5_matplotlib.ipynb)--> |ok|
+|||実習(1.棒グラフ)|<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture5_extra_1.ipynb)--> |ok|
+|||Extra(アンケート結果)|<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/aiit_query_process.ipynb)--> |ok|
+|Lecture6|4/22(土)|統計分布の基礎 |<!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture6.ipynb)-->|ok|
+|Lecture7|4/26(水)|回帰分析1|<!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture7.ipynb)-->|ok|
+|||事例(Game)|<!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture7_games.ipynb)-->|ok|
+|Lecture8|5/6(土)|回帰分析2|<!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture8.ipynb)-->|in_progress|
+|||重回帰分析（変数選択）|<!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture8_AIC.ipynb)-->|in_progress|
+|||重回帰分析（交絡因子）|<!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture8_multiple_regression.ipynb)-->|ok|
+|||重回帰分析（ダミー変数）|<!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture6_multi_reg_category.ipynb)-->|ok|
+|Lecture9|5/10(水)|パターン認識1|<!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture9.ipynb)-->|ok|
+|||SVMの例|<!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture9_SVM.ipynb)-->|ok|
+|||SVMを最適化で解く|<!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture9_svm_optimize.ipynb)-->|ok|
 |Lecture10|5/13(土)|パターン認識2||ok|
-|||クラス分類|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture10_classification.ipynb)|ok|
-|||クラスタリング|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture10_clustering.ipynb)|ok|
-|Lecture11|5/17(水)|動的システムの表現|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture11.ipynb)|ok|
-|Lecture12|5/20(土)|時系列|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture12.ipynb)|in progress|
-|Lecture13|5/24(水)|状態空間モデル|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture13.ipynb)|ok|
-|||周波数分析|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture13_frequency.ipynb)|ok|
-|Lecture14|5/27(土)|画像分析|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture14.ipynb)|ok|
+|||クラス分類|<!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture10_classification.ipynb)-->|ok|
+|||クラスタリング|<!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture10_clustering.ipynb)-->|ok|
+|Lecture11|5/17(水)|動的システムの表現|<!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture11.ipynb)-->|ok|
+|Lecture12|5/20(土)|時系列|<!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture12.ipynb)-->|in progress|
+|Lecture13|5/24(水)|状態空間モデル|<!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture13.ipynb)-->|ok|
+|||周波数分析|<!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture13_frequency.ipynb)-->|ok|
+|Lecture14|5/27(土)|画像分析|<!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture14.ipynb)-->|ok|
 |Lecture15|5/31(水)|発展的話題とまとめ|
 |予備|6/3(土)|
 
