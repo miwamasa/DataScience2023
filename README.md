@@ -48,7 +48,7 @@
 |Lecture5|4/19(水)|データの可視化| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture5_matplotlib.ipynb) |in preparation|
 |||実習(1.棒グラフ)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture5_extra_1.ipynb) |in preparation|
 |||Extra(アンケート結果)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/aiit_query_process2023.ipynb) |in preparation|
-|Lecture6|4/22(土)|統計分布の基礎 |<!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture6.ipynb)-->|ok|
+|Lecture6|4/22(土)|統計分布の基礎 |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture6.ipynb)|ok|
 |Lecture7|4/26(水)|回帰分析1|<!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture7.ipynb)-->|ok|
 |||事例(Game)|<!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture7_games.ipynb)-->|ok|
 |Lecture8|5/6(土)|回帰分析2|<!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture8.ipynb)-->|in_progress|
