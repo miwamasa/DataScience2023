@@ -50,8 +50,8 @@
 |||Extra(アンケート結果)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/aiit_query_process2023.ipynb) |in preparation|
 |||ChatGPTでtitanic|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/pandas_agent_sample.ipynb) |ok|
 |Lecture6|4/22(土)|統計分布の基礎 |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture6.ipynb)|ok|
-|Lecture7|4/26(水)|回帰分析1|<!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture7.ipynb)-->|ok|
-|||事例(Game)|<!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture7_games.ipynb)-->|ok|
+|Lecture7|4/26(水)|回帰分析1|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture7.ipynb)|ok|
+|||事例(Game)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture7_games.ipynb)|ok|
 |Lecture8|5/6(土)|回帰分析2|<!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture8.ipynb)-->|in_progress|
 |||重回帰分析（変数選択）|<!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture8_AIC.ipynb)-->|in_progress|
 |||重回帰分析（交絡因子）|<!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture8_multiple_regression.ipynb)-->|ok|
