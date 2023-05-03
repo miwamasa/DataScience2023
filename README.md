@@ -55,7 +55,7 @@
 |Lecture8|5/6(土)|回帰分析2|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture8.ipynb)|in_progress|
 |||重回帰分析（変数選択）|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture8_AIC.ipynb)|in_progress|
 |||重回帰分析（交絡因子）|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture8_multiple_regression.ipynb)|ok|
-|||重回帰分析（ダミー変数）|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture6_multi_reg_category.ipynb)|ok|
+|||重回帰分析（ダミー変数）|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture8_multi_reg_category.ipynb)|ok|
 |Lecture9|5/10(水)|パターン認識1|<!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture9.ipynb)-->|ok|
 |||SVMの例|<!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture9_SVM.ipynb)-->|ok|
 |||SVMを最適化で解く|<!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture9_svm_optimize.ipynb)-->|ok|
