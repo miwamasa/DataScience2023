@@ -56,9 +56,9 @@
 |||重回帰分析（変数選択）|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture8_AIC.ipynb)|ok|
 |||重回帰分析（交絡因子）|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture8_multiple_regression.ipynb)|ok|
 |||重回帰分析（ダミー変数）|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture8_multi_reg_category.ipynb)|ok|
-|Lecture9|5/10(水)|パターン認識1|<!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture9.ipynb)-->|ok|
-|||SVMの例|<!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture9_SVM.ipynb)-->|ok|
-|||SVMを最適化で解く|<!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture9_svm_optimize.ipynb)-->|ok|
+|Lecture9|5/10(水)|パターン認識1|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture9.ipynb)|ok|
+|||SVMの例|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture9_SVM.ipynb)|ok|
+|||SVMを最適化で解く|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture9_svm_optimize.ipynb)|ok|
 |Lecture10|5/13(土)|パターン認識2||ok|
 |||クラス分類|<!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture10_classification.ipynb)-->|ok|
 |||クラスタリング|<!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture10_clustering.ipynb)-->|ok|
