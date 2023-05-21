@@ -64,7 +64,7 @@
 |||クラスタリング|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture10_clustering.ipynb)|ok|
 |Lecture11|5/17(水)|動的システムの表現|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture11.ipynb)|ok|
 |Lecture12|5/20(土)|時系列|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture12.ipynb)|in progress|
-|Lecture13|5/24(水)|状態空間モデル|<!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture13.ipynb)-->|ok|
+|Lecture13|5/24(水)|状態空間モデル|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture13.ipynb)|ok|
 |||周波数分析|<!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture13_frequency.ipynb)-->|ok|
 |Lecture14|5/27(土)|画像分析|<!--[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture14.ipynb)-->|ok|
 |Lecture15|5/31(水)|発展的話題とまとめ|
