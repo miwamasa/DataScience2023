@@ -88,4 +88,6 @@
 
 - report1の例：[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/2023report1_sample.ipynb)
 
+- report2の例：[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/2023report2_sample.ipynb)
+
 
