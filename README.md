@@ -68,6 +68,10 @@
 |||周波数分析|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture13_frequency.ipynb)|ok|
 |Lecture14|5/27(土)|画像分析|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lecture14.ipynb)|ok|
 |Lecture15|5/31(水)|発展的話題とまとめ|
+|||Transformer入門|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lec15_transformer_intro.ipynb)|ok|
+|||テキスト生成|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lec15_transformer_textgeneration.ipynb)|ok|
+|||Q&A|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/lec15_transformer_qanda.ipynb)|ok|
+|||ChatGPTでtitanic|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2023/blob/main/notebooks/pandas_agent_sample.ipynb) |ok|
 |予備|6/3(土)|
 
 
@@ -79,6 +83,7 @@
 |Lecture7|4/27(水)|パターン認識1|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture7.ipynb)|in_progress|
 |||SVM|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture7_SVM.ipynb)|in_progress|
 |Lecture8|4/30(土)|パターン認識2|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture8.ipynb)|in_progress| -->
+
 ## テスト
 - ミニテスト：manabaで行います
 - 中間レポート：manabaで行います
